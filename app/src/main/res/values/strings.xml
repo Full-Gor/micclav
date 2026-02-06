@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Micclav</string>
+    <string name="settings_title">Paramètres Micclav</string>
+
+    <string name="lang_french">Français</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_english">English</string>
+    <string name="lang_tachelhit">ⵜⴰⵛⵍⵃⵉⵜ</string>
+    <string name="lang_tachelhit_latin">Tachelhit</string>
+
+    <string name="voice_input">Dictée vocale</string>
+    <string name="voice_listening">Écoute en cours…</string>
+    <string name="voice_processing">Traitement…</string>
+    <string name="voice_error">Erreur de reconnaissance</string>
+
+    <string name="enable_keyboard">Activer le clavier Micclav</string>
+    <string name="enable_keyboard_desc">Allez dans Paramètres → Langues et saisie → Clavier actuel → Choisir Micclav</string>
+    <string name="download_models">Télécharger les modèles vocaux</string>
+    <string name="model_downloading">Téléchargement du modèle…</string>
+    <string name="model_ready">Modèle prêt</string>
+</resources>

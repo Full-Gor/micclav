@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.micclav.keyboard.ui.SettingsActivity"
+    android:isDefault="false">
+
+    <subtype
+        android:label="@string/lang_french"
+        android:imeSubtypeLocale="fr"
+        android:imeSubtypeMode="keyboard" />
+
+    <subtype
+        android:label="@string/lang_arabic"
+        android:imeSubtypeLocale="ar"
+        android:imeSubtypeMode="keyboard" />
+
+    <subtype
+        android:label="@string/lang_english"
+        android:imeSubtypeLocale="en"
+        android:imeSubtypeMode="keyboard" />
+
+    <subtype
+        android:label="@string/lang_tachelhit"
+        android:imeSubtypeLocale="shi"
+        android:imeSubtypeMode="keyboard" />
+
+</input-method>
